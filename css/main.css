@@ -21,3 +21,8 @@ img {
     opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
 }
+h1 {
+	text-align: center;
+	Hello my name is Allison Hurley.
+
+}	

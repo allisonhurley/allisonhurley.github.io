@@ -4,11 +4,6 @@
 	color: white; 
 	font-size: 200%;
 }
-img {
-	src="IMG_0850.jpg"
-    opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
-}
 .parallax {
     /* The image used */
     background-image: "IMG_0850.jpg";
@@ -21,4 +16,8 @@ img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
 }

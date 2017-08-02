@@ -1,7 +1,8 @@
 body {
     background-color: green;
 }
-.bar {
+.bar, .bar a {
 	background-color: black;
 	color: white; 
+	font-size: 200%;
 }

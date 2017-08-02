@@ -7,6 +7,8 @@
 .parallax {
     /* The image used */
     background-image: "IMG_0850.jpg";
+    opacity: 0.5;
+    filter: alpha(opacity=50);
 
     /* Set a specific height */
     min-height: 500px; 
@@ -17,12 +19,3 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-img {
-    opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
-}
-h1 {
-	text-align: center;
-	Hello my name is Allison Hurley.
-
-}	

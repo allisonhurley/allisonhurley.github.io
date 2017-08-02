@@ -1,8 +1,19 @@
 body {
     background-color: green;
 }
+/*
 .bar, .bar a {
 	background-color: black;
 	color: white; 
 	font-size: 200%;
+}
+*/
+.parallax {
+	background-image: url("IMG_1514.jpg");
+	min-height: 400px;
+
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }

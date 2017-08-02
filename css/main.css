@@ -7,8 +7,6 @@
 .parallax {
     /* The image used */
     background-image: /img/"IMG_0850.jpg";
-    opacity: 0.5;
-    filter: alpha(opacity=50);
 
     /* Set a specific height */
     min-height: 500px; 

@@ -1,3 +1,7 @@
 body {
-    background-color: limegreen;
+    background-color: green;
+}
+.bar {
+	background-color: black;
+	color: white; 
 }

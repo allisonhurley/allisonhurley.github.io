@@ -6,7 +6,7 @@
 }
 .background {
     /* The image used */
-    background-image: img("IMG_0850.jpg");
+    background-image: code/allisonhurley.github.io/img("IMG_0850.jpg");
 
     min-height: 500px;
 

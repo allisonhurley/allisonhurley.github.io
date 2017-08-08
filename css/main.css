@@ -4,7 +4,7 @@
 	color: white; 
 	font-size: 200%;
 }
-.parallax {
+.background {
     /* The image used */
-    background-image: img/"IMG_0850.jpg";
+    background-image: img("IMG_0850.jpg");
 }
